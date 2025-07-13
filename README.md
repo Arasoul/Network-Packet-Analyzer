@@ -21,14 +21,14 @@ A comprehensive network packet analysis tool with machine learning-based classif
 ### Main Interface
 ![Main Interface](screenshots/main_interface.png)
 
-### Statistics Dashboard
-![Statistics Dashboard](screenshots/statistics_dashboard.png)
-
 ### Protocol Distribution Analysis
 ![Protocol Chart](screenshots/protocol_chart.png)
 
 ### Classification View
 ![Classification View](screenshots/classification_view.png)
+
+### Search Functionality
+![Search Functionality](screenshots/search.png)
 
 ## Requirements
 
