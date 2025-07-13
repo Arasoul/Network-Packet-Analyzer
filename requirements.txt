@@ -1,0 +1,30 @@
+# Python dependencies for Network Packet Analyzer
+
+# Core packet capture and analysis
+pyshark>=0.4.3
+scapy>=2.4.5
+
+# GUI and visualization
+tkinter-defaults>=1.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Text processing
+nltk>=3.7
+
+# Data handling
+pandas>=1.3.0
+
+# Additional utilities
+asyncio-mqtt>=0.11.0
+python-dateutil>=2.8.0
+
+# Optional: For enhanced network interface detection
+psutil>=5.8.0
+
+# Optional: For advanced plotting
+seaborn>=0.11.0
