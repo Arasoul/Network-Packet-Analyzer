@@ -18,7 +18,17 @@ A comprehensive network packet analysis tool with machine learning-based classif
 
 ## Screenshots
 
-*Add screenshots of your application here*
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+
+### Statistics Dashboard
+![Statistics Dashboard](screenshots/statistics_dashboard.png)
+
+### Protocol Distribution Analysis
+![Protocol Chart](screenshots/protocol_chart.png)
+
+### Classification View
+![Classification View](screenshots/classification_view.png)
 
 ## Requirements
 
@@ -30,8 +40,8 @@ A comprehensive network packet analysis tool with machine learning-based classif
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/network-packet-analyzer.git
-   cd network-packet-analyzer
+   git clone https://github.com/Arasoul/Network-Packet-Analyzer.git
+   cd Network-Packet-Analyzer
    ```
 
 2. **Install Python dependencies**
